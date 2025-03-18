@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Test
 layout: home
 ---
 
